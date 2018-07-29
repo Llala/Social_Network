@@ -1,2 +1,2 @@
 # Social_Network
-Simple social network based on blog called Star Social
+Simple social network based on blog. Based on Django.
